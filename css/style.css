@@ -1,0 +1,39 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #53B2FF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body h1 {
+  padding-bottom: 50px;
+}
+
+body .center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body .center button {
+  background-color: blue;
+  border: none;
+  width: 200px;
+  height: 40px;
+  display: block;
+  margin: 20px 0;
+}
+
+body .center .tweet {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
